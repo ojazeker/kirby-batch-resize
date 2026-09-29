@@ -14,6 +14,5 @@ Set a fallback file blueprint (such as `image` or `portrait`) to apply its creat
 - `index.js` and `index.css` are built Panel assets. Commit both so the plugin works without npm on the server.
 - `tests/` checks scanning, batch progression, Panel access, and API responses without touching actual files. Run with `npm test`.
 
-Run `npm install` once, then `npm run dev` to watch changes or `npm run serve` for Panel hot reloading. Run `npm run build` before publishing and refresh the Panel.
 
 Add Panel areas and API routes under `config/`, image-processing behavior in `lib/`, and UI in `src/components/`.
