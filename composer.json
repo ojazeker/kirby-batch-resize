@@ -1,0 +1,16 @@
+{
+  "name": "allsizes/batch-resize",
+  "description": "Bulk resize plugin for Kirby images",
+  "version": "1.0.0",
+  "license": "All rights reserved",
+  "type": "kirby-plugin",
+  "authors": [
+    {
+      "name": "All Sizes"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.1",
+    "getkirby/cms": "^5.2.2"
+  }
+}
