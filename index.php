@@ -1,5 +1,7 @@
 <?php
 
+
+
 require_once __DIR__ . '/lib/ResizeService.php';
 
 Kirby::plugin('allsizes/batch-resize', [
